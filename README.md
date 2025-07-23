@@ -1,7 +1,7 @@
-👋 Hi, I’m @Matuku45  
-👀 I’m interested in web development, software engineering, and embedded systems.  
-🌱 I’m currently learning more about Linux,and Software engineering and advanced Java programming.  
-💞️ I’m looking to collaborate on open-source projects involving Java, C++, and web technologies (HTML5, CSS, JavaScript).  
-📫 How to reach me: [your email or other contact info]  
-😄 Pronouns: [your pronouns]  
-⚡ Fun fact: I enjoy creating fun and interactive Arduino projects with LEDs and buzzers!
+👋 Hi, I’m **Manuel Mapoulo** (@Matuku45)  
+💻 I’m passionate about **web development**, **software engineering**, and **embedded systems**.  
+🌱 Currently learning more about **Linux**, **advanced Java programming**, and **software engineering principles**.  
+🤝 I’m open to collaborating on **open-source projects** involving **Java**, **C++**, **Python**, and **modern web technologies** (HTML5, CSS, JavaScript).  
+📫 Reach me at: manuelthabisomapoulo@gmail.com  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I enjoy building interactive **Arduino projects** using LEDs, buzzers, and sensors!
