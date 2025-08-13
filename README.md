@@ -5,3 +5,7 @@
 📫 Reach me at: manuelthabisomapoulo@gmail.com  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I enjoy building interactive **Arduino projects** using LEDs, buzzers, and sensors!
+
+my first knew project deployed on Fly.io
+
+https://thirty-black-feather-1498.fly.dev/apidocs/
